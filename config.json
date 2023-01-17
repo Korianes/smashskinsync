@@ -1,0 +1,33 @@
+{
+    "new-dir-files": {
+        "fighter/szerosuit/c06": [
+            "fighter/szerosuit/model/body/c06/alp_szerosuit_001_col.nutexb",
+            "fighter/szerosuit/model/body/c06/alp_szerosuit_001_nor.nutexb",
+            "fighter/szerosuit/model/body/c06/alp_szerosuit_001_prm.nutexb",
+            "fighter/szerosuit/model/body/c06/alp_szerosuit_002_col.nutexb",
+            "fighter/szerosuit/model/body/c06/alp_szerosuit_002_nor.nutexb",
+            "fighter/szerosuit/model/body/c06/alp_szerosuit_002_prm.nutexb",
+            "fighter/szerosuit/model/body/c06/def_szerosuit_001_col.nutexb",
+            "fighter/szerosuit/model/body/c06/def_szerosuit_001_emi.nutexb",
+            "fighter/szerosuit/model/body/c06/metal_szerosuit_001_col.nutexb",
+            "fighter/szerosuit/model/body/c06/model.nuhlpb",
+            "fighter/szerosuit/model/body/c06/model.numatb",
+            "fighter/szerosuit/model/body/c06/model.numdlb",
+            "fighter/szerosuit/model/body/c06/model.numshb",
+            "fighter/szerosuit/model/body/c06/model.numshexb",
+            "fighter/szerosuit/model/body/c06/model.nusktb",
+            "fighter/szerosuit/model/body/c06/skin_szerosuit_001_col.nutexb",
+            "fighter/szerosuit/model/body/c06/skin_szerosuit_001_nor.nutexb",
+            "fighter/szerosuit/model/body/c06/skin_szerosuit_001_prm.nutexb",
+            "fighter/szerosuit/model/paralyzer/c06/metal_szerosuit_001_col.nutexb",
+            "fighter/szerosuit/model/paralyzer/c06/metal_szerosuit_001_nor.nutexb",
+            "fighter/szerosuit/model/paralyzer/c06/metal_szerosuit_001_prm.nutexb",
+            "fighter/szerosuit/model/paralyzer/c06/model.nuhlpb",
+            "fighter/szerosuit/model/paralyzer/c06/model.numatb",
+            "fighter/szerosuit/model/paralyzer/c06/model.numdlb",
+            "fighter/szerosuit/model/paralyzer/c06/model.numshb",
+            "fighter/szerosuit/model/paralyzer/c06/model.numshexb",
+            "fighter/szerosuit/model/paralyzer/c06/model.nusktb"
+        ]
+    }
+}

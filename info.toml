@@ -1,0 +1,8 @@
+display_name = "Neon"
+authors = "BoiledSwift (@BoiledSwift)"
+version = "1.2.0"
+description = """
+Neon, the bioelectric radiant, joins the battle! Comes with UI, voice, expressions, moving eyes, and custom Final Smash Materials.
+
+"""
+category = "Fighter"
